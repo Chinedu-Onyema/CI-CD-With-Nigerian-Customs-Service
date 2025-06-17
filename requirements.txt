@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+pylint
+ipython
+black
+requests
+bs4
+pandas
+numpy
